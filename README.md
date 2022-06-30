@@ -8,7 +8,7 @@ Ride-sharing data was analyzed for V. Isualize in order to see how ride-sharing 
 
 In order to compare each city type, the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type were calculated. These can be viewed below in the dataframe.
 
-![PyBer_type_summary](https://github.com/mcwatts88/PyBer_Analysis/blob/main/analysis/PyBer_type_summary.png)
+![PyBer_type_summary](https://github.com/mcwatts88/PyBer_Analysis/blob/main/analysis/PyBer_type_summary.PNG)
 
 The urban ride count made up the majority of the rides taken and also generated the most total money. There were more drivers than rides taken in urban cities. This led to a lower fare per driver and fare per ride in urban cities. The rural cities generated the least amount of money but the rides were more lucrative in this area. The suburban areas generated a higher fare per ride than urban areas and the driver pool was not oversaturated leading to higher fares per driver in these areas.
 
